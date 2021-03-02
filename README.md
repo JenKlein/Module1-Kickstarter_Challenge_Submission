@@ -36,20 +36,20 @@ Comparing the outcomes of the fundraising campaigns for plays based on their fun
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 The most successful Theatre fundraising campaigns were launched in May and June. Over 100 successful campaigns were launched in May, while 100 successful campaigns were launched in June. Therefore, it would be advisable to launch a theatre campaign in May or June, as it is likely to elicit similar results to those in the past.
 
-- What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 
 The highest percentage of successful campaigns had goals under $4,999, followed closely by those with goals between $35,000 and $44,999. On the other hand, 80% of projects with goals between $25,000 and $29,999 failed, and 80-100% of goals greater than $45,000 failed. Louise had a goal of $10,000, which was close to but did not reach its fundraising goal. This outcome in line with past fundraising campaign results, of which 45% fail to meet the fundraising goal. Perhaps, if Louise had set a fundraising goal of under $4,999 or between $35,000 and $44,999, she would have been more likely to meet her goal.  
 
-- What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 
 * This dataset is dated, with the most recent data from 2017. More recent data would help to provide more relevant findings to Louise.
 * Many of the campaigns are quite short in duration as well, lasting only a few months. With data from fundraising campaigns that were longer-lasting would provide more comparison for the duration Louise should have set for her campaign.  
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
 
 * Plot the average donation by launch date (for theatre and plays) in a line graph to discover if the timing of the launch has an impact the amount people pledge. 
 * Plot  the outcomes by country in a bar chart to determine if particular countries have a higher success rate of fundraising for plays/theatre. 
